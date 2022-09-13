@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniclementee
 - 👀 I’m interested in Sports, especially Soccer.
 - 🌱 I’m currently learning Computer Science and Psychology
-- 💞️ I’m looking to collaborate on any opportunities that may come
+- 💞️ I’m looking to collaborate on any opportunities that may come this semester
 - 📫 How to reach me danielclemente2050@gmail.com
 
 <!---
