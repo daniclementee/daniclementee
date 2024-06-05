@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @daniclementee
-- 👀 I’m interested in Sports, especially Soccer.
-- 🌱 I’m currently learning Computer Science and Psychology
-- 💞️ I’m looking to collaborate on any opportunities that may come this semester
-- 📫 How to reach me danielclemente2050@gmail.com
+- 👀 I’m interested in Sports, especially Soccer and Basketball.
+- 🌱 I’m currently learning Economics and Data Science.
+- 💞️ I’m looking to further my knowledge in coding.
+- 📫 How to reach me dacl8699@colorado.edu
 
 <!---
 daniclementee/daniclementee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
